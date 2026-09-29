@@ -4,9 +4,7 @@ h1 {
 
 .container {
   background-color: rgb(255, 255, 255);
-
   padding: 10px 0;
-  
 }
 
 .marker {
@@ -16,13 +14,13 @@ h1 {
 }
 
 .one {
-  background-color: rgb(255, 127, 0);
+  background-color: rgb(127, 255, 0);
 }
 
 .two {
-  background-color: rgb(0, 255, 127);
+  background-color: rgb(0, 127, 255);
 }
 
 .three {
-  background-color: rgb(255, 0, 255);
+  background-color: rgb(255, 0, 127);
 }
